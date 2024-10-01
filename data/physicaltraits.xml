@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<physicalTraits>
+    <!-- Disabilities -->
+    <trait>
+        <description lang="en">has lost an eye and wears an eyepatch</description>
+        <description lang="de">hat ein Auge verloren und trägt eine Augenklappe</description>
+    </trait>
+   <trait>
+        <description lang="en">walks with a limp</description>
+        <description lang="de">geht mit einem Hinken</description>
+    </trait>
+    <trait>
+        <description lang="en">is missing an arm</description>
+        <description lang="de">hat einen Arm verloren</description>
+    </trait>
+    <trait>
+        <description lang="en">has a stutter</description>
+        <description lang="de">hat ein Stottern</description>
+    </trait>
+    <trait>
+        <description lang="en">is deaf in one ear</description>
+        <description lang="de">ist auf einem Ohr taub</description>
+    </trait>
+    <trait>
+        <description lang="en">has a hunched back</description>
+        <description lang="de">hat einen gebeugten Rücken</description>
+    </trait>
+    <trait>
+        <description lang="en">is missing a leg and uses a crutch</description>
+        <description lang="de">hat ein Bein verloren und benutzt eine Krücke</description>
+    </trait>
+    <trait>
+        <description lang="en">has a lisp</description>
+        <description lang="de">hat einen Lispeln</description>
+    </trait>
+    <trait>
+        <description lang="en">is blind</description>
+        <description lang="de">ist blind</description>
+    </trait>
+    <trait>
+        <description lang="en">has a missing finger</description>
+        <description lang="de">fehlt ein Finger</description>
+    </trait>
+    <trait>
+        <description lang="en">is wheelchair-bound</description>
+        <description lang="de">ist an einen Rollstuhl gebunden</description>
+    </trait>
+    <trait>
+        <description lang="en">suffers from chronic pain</description>
+        <description lang="de">leidet unter chronischen Schmerzen</description>
+    </trait>
+    <!-- Other Physical Traits -->
+    <trait>
+        <description lang="en">has a distinctive scar on the left cheek</description>
+        <description lang="de">hat eine markante Narbe auf der linken Wange</description>
+    </trait>
+    <trait>
+        <description lang="en">has piercing blue eyes</description>
+        <description lang="de">hat stechend blaue Augen</description>
+    </trait>
+    <trait>
+        <description lang="en">is exceptionally tall</description>
+        <description lang="de">ist außergewöhnlich groß</description>
+    </trait>
+    <trait>
+        <description lang="en">has smooth, flawless skin</description>
+        <description lang="de">hat glatte, makellose Haut</description>
+    </trait>
+    <trait>
+        <description lang="en">has a deep, resonant voice</description>
+        <description lang="de">hat eine tiefe, resonante Stimme</description>
+    </trait>
+    <trait>
+        <description lang="en">has a crooked nose</description>
+        <description lang="de">hat eine krumme Nase</description>
+    </trait>
+    <trait>
+        <description lang="en">is covered in freckles</description>
+        <description lang="de">ist mit Sommersprossen übersät</description>
+    </trait>
+    <trait>
+        <description lang="en">has long, flowing hair</description>
+        <description lang="de">hat langes, fließendes Haar</description>
+    </trait>
+    <trait>
+        <description lang="en">is bald</description>
+        <description lang="de">ist kahl</description>
+    </trait>
+    <trait>
+        <description lang="en">has bushy eyebrows</description>
+        <description lang="de">hat buschige Augenbrauen</description>
+    </trait>
+    <trait>
+        <description lang="en">has a prominent chin</description>
+        <description lang="de">hat ein markantes Kinn</description>
+    </trait>
+    <trait>
+        <description lang="en">is of petite build</description>
+        <description lang="de">ist von zierlicher Statur</description>
+    </trait>
+    <trait>
+        <description lang="en">has a muscular physique</description>
+        <description lang="de">hat eine muskulöse Statur</description>
+    </trait>
+    <trait>
+        <description lang="en">has an intricate tattoo on their arm</description>
+        <description lang="de">hat ein aufwändiges Tattoo auf dem Arm</description>
+    </trait>
+    <trait>
+        <description lang="en">has wrinkles around the eyes</description>
+        <description lang="de">hat Falten um die Augen</description>
+    </trait>
+    <trait>
+        <description lang="en">has a big nose</description>
+        <description lang="de">hat eine große Nase</description>
+    </trait>
+    <trait>
+        <description lang="en">is missing some teeth</description>
+        <description lang="de">hat einige Zähne verloren</description>
+    </trait>
+    <trait>
+        <description lang="en">has a weathered face</description>
+        <description lang="de">hat ein wettergegerbtes Gesicht</description>
+    </trait>
+    <trait>
+        <description lang="en">has delicate, graceful hands</description>
+        <description lang="de">hat zarte, anmutige Hände</description>
+    </trait>
+    <trait>
+        <description lang="en">is very short</description>
+        <description lang="de">ist sehr klein</description>
+    </trait>
+    <trait>
+        <description lang="en">has strikingly beautiful features</description>
+        <description lang="de">hat auffallend schöne Züge</description>
+    </trait>
+    <trait>
+        <description lang="en">has a deep scar across the abdomen</description>
+        <description lang="de">hat eine tiefe Narbe über den Bauch</description>
+    </trait>
+    <trait>
+        <description lang="en">has broad shoulders</description>
+        <description lang="de">hat breite Schultern</description>
+    </trait>
+    <trait>
+        <description lang="en">has a gentle smile</description>
+        <description lang="de">hat ein sanftes Lächeln</description>
+    </trait>
+    <trait>
+        <description lang="en">is covered in tattoos</description>
+        <description lang="de">ist mit Tattoos bedeckt</description>
+    </trait>
+    <trait>
+        <description lang="en">has a sunburnt skin tone</description>
+        <description lang="de">hat einen sonnengebräunten Hautton</description>
+    </trait>
+    <trait>
+        <description lang="en">has a potbelly</description>
+        <description lang="de">hat einen Bierbauch</description>
+    </trait>
+    <trait>
+        <description lang="en">has piercing green eyes</description>
+        <description lang="de">hat stechend grüne Augen</description>
+    </trait>
+    <trait>
+        <description lang="en">has a small birthmark on the neck</description>
+        <description lang="de">hat ein kleines Muttermal am Hals</description>
+    </trait>
+    <trait>
+        <description lang="en">has short, spiky hair</description>
+        <description lang="de">hat kurzes, stacheliges Haar</description>
+    </trait>
+    <trait>
+        <description lang="en">has a crooked smile</description>
+        <description lang="de">hat ein schiefes Lächeln</description>
+    </trait>
+</physicalTraits>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traits>
+    <positiveTraits>
+        <trait>
+            <name lang="en">Honest</name>
+            <name lang="de">Ehrlich</name>
+        </trait>
+        <trait>
+            <name lang="en">Generous</name>
+            <name lang="de">Großzügig</name>
+        </trait>
+        <trait>
+            <name lang="en">Brave</name>
+            <name lang="de">Mutig</name>
+        </trait>
+        <trait>
+            <name lang="en">Compassionate</name>
+            <name lang="de">Mitfühlend</name>
+        </trait>
+        <trait>
+            <name lang="en">Loyal</name>
+            <name lang="de">Loyal</name>
+        </trait>
+        <trait>
+            <name lang="en">Creative</name>
+            <name lang="de">Kreativ</name>
+        </trait>
+        <trait>
+            <name lang="en">Diligent</name>
+            <name lang="de">Fleißig</name>
+        </trait>
+        <trait>
+            <name lang="en">Courageous</name>
+            <name lang="de">Tapfer</name>
+        </trait>
+        <trait>
+            <name lang="en">Wise</name>
+            <name lang="de">Weise</name>
+        </trait>
+        <trait>
+            <name lang="en">Humble</name>
+            <name lang="de">Bescheiden</name>
+        </trait>
+        <trait>
+            <name lang="en">Patient</name>
+            <name lang="de">Geduldig</name>
+        </trait>
+        <trait>
+            <name lang="en">Optimistic</name>
+            <name lang="de">Optimistisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Ambitious</name>
+            <name lang="de">Ehrgeizig</name>
+        </trait>
+        <trait>
+            <name lang="en">Charismatic</name>
+            <name lang="de">Charismatisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Dependable</name>
+            <name lang="de">Zuverlässig</name>
+        </trait>
+        <trait>
+            <name lang="en">Empathetic</name>
+            <name lang="de">Einfühlsam</name>
+        </trait>
+        <trait>
+            <name lang="en">Hardworking</name>
+            <name lang="de">Arbeitssam</name>
+        </trait>
+        <trait>
+            <name lang="en">Generous</name>
+            <name lang="de">Freigebig</name>
+        </trait>
+        <trait>
+            <name lang="en">Adventurous</name>
+            <name lang="de">Abenteuerlustig</name>
+        </trait>
+        <trait>
+            <name lang="en">Forgiving</name>
+            <name lang="de">Vergebend</name>
+        </trait>
+        <trait>
+            <name lang="en">Friendly</name>
+            <name lang="de">Freundlich</name>
+        </trait>
+    </positiveTraits>
+    <negativeTraits>
+        <trait>
+            <name lang="en">Greedy</name>
+            <name lang="de">Gierig</name>
+        </trait>
+        <trait>
+            <name lang="en">Lazy</name>
+            <name lang="de">Faul</name>
+        </trait>
+        <trait>
+            <name lang="en">Arrogant</name>
+            <name lang="de">Arrogant</name>
+        </trait>
+        <trait>
+            <name lang="en">Cowardly</name>
+            <name lang="de">Feige</name>
+        </trait>
+        <trait>
+            <name lang="en">Cruel</name>
+            <name lang="de">Grausam</name>
+        </trait>
+        <trait>
+            <name lang="en">Deceptive</name>
+            <name lang="de">Täuschend</name>
+        </trait>
+        <trait>
+            <name lang="en">Impatient</name>
+            <name lang="de">Ungeduldig</name>
+        </trait>
+        <trait>
+            <name lang="en">Jealous</name>
+            <name lang="de">Eifersüchtig</name>
+        </trait>
+        <trait>
+            <name lang="en">Stubborn</name>
+            <name lang="de">Stur</name>
+        </trait>
+        <trait>
+            <name lang="en">Selfish</name>
+            <name lang="de">Egoistisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Vindictive</name>
+            <name lang="de">Rachsüchtig</name>
+        </trait>
+        <trait>
+            <name lang="en">Ruthless</name>
+            <name lang="de">Rücksichtslos</name>
+        </trait>
+        <trait>
+            <name lang="en">Envious</name>
+            <name lang="de">Neidisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Gossipy</name>
+            <name lang="de">Klatschsüchtig</name>
+        </trait>
+        <trait>
+            <name lang="en">Cynical</name>
+            <name lang="de">Zynisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Grumpy</name>
+            <name lang="de">Mürrisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Manipulative</name>
+            <name lang="de">Manipulativ</name>
+        </trait>
+        <trait>
+            <name lang="en">Reckless</name>
+            <name lang="de">Rücksichtslos</name>
+        </trait>
+        <trait>
+            <name lang="en">Hypocritical</name>
+            <name lang="de">Heuchlerisch</name>
+        </trait>
+        <trait>
+            <name lang="en">Short-tempered</name>
+            <name lang="de">Jähzornig</name>
+        </trait>
+        <trait>
+            <name lang="en">Insecure</name>
+            <name lang="de">Unsicher</name>
+        </trait>
+    </negativeTraits>
+</traits>

@@ -1,0 +1,180 @@
+/* Grundlegende Stile */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Halbtransparenter Hintergrund für Hauptinhalt */
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 5px;
+}
+
+/* Header-Stil */
+.header {
+    background-color: #4a90e2;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+/* Optionen */
+.options {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.option-group {
+    margin-bottom: 15px;
+}
+
+.option-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.option-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+label i {
+    margin-right: 8px;
+    color: #4a90e2;
+}
+
+#generate {
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #4a90e2;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#generate:hover {
+    background-color: #357abd;
+}
+
+/* Spinner-Stil */
+.spinner {
+    border: 4px solid rgba(0,0,0,0.1);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border-left-color: #4a90e2;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Ergebnisanzeige */
+.result {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.result h2 {
+    margin-top: 0;
+    font-size: 1.8em;
+    color: #4a90e2;
+}
+
+.result p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+
+
+/* Responsives Design */
+@media (max-width: 600px) {
+    .option-group {
+        margin-bottom: 20px;
+    }
+
+    #generate {
+        width: 100%;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    .options {
+        padding: 15px;
+    }
+
+    .option-group label {
+        font-size: 0.9em;
+    }
+
+    .option-group select {
+        padding: 8px;
+    }
+
+    #generate {
+        font-size: 0.9em;
+        padding: 10px;
+    }
+
+    .result h2 {
+        font-size: 1.5em;
+    }
+
+    .result p {
+        font-size: 1em;
+    }
+}
+
+/* Originaler Footer-Stil 
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+} */
+
+/* New Footer Style */
+footer {
+    padding: 30px;
+    background: white;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    display: flex;
+    justify-content: center;
+    }
+.footerItem {
+    margin-left: 1em;
+    margin-right: 1em;
+    }

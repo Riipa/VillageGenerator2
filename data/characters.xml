@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character>
+        <role>
+            <name lang="en">Village Leader</name>
+            <name lang="de">Dorfvorsteher</name>
+        </role>
+        <description>
+            <text lang="en">Responsible for governing the village and making decisions on behalf of the community.</text>
+            <text lang="de">Verantwortlich für die Leitung des Dorfes und trifft Entscheidungen im Namen der Gemeinschaft.</text>
+        </description>
+        <inCity>false</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>1</maxCount>
+        <genders>
+            <maleChance>70</maleChance>
+            <femaleChance>30</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Mayor</name>
+            <name lang="de">Bürgermeister</name>
+        </role>
+        <description>
+            <text lang="en">Leads the city, overseeing its administration and governance.</text>
+            <text lang="de">Leitet die Stadt und überwacht ihre Verwaltung und Regierung.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>false</inVillage>
+        <maxCount>1</maxCount>
+        <genders>
+            <maleChance>70</maleChance>
+            <femaleChance>30</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Blacksmith</name>
+            <name lang="de">Schmied</name>
+        </role>
+        <description>
+            <text lang="en">Crafts and repairs metal tools and weapons for villagers.</text>
+            <text lang="de">Stellt Metallwerkzeuge und Waffen für die Dorfbewohner her und repariert sie.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>2</maxCount>
+        <genders>
+            <maleChance>80</maleChance>
+            <femaleChance>20</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Healer</name>
+            <name lang="de">Heiler</name>
+        </role>
+        <description>
+            <text lang="en">Provides medical assistance and herbal remedies to the sick and injured.</text>
+            <text lang="de">Bietet medizinische Hilfe und Kräuterheilmittel für Kranke und Verletzte an.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>3</maxCount>
+        <genders>
+            <maleChance>30</maleChance>
+            <femaleChance>70</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Farmer</name>
+            <name lang="de">Bauer</name>
+        </role>
+        <description>
+            <text lang="en">Grows crops and raises livestock to provide food for the village.</text>
+            <text lang="de">Baut Getreide an und züchtet Vieh, um das Dorf mit Nahrung zu versorgen.</text>
+        </description>
+        <inCity>false</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>unlimited</maxCount>
+        <genders>
+            <maleChance>60</maleChance>
+            <femaleChance>40</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Miller</name>
+            <name lang="de">Müller</name>
+        </role>
+        <description>
+            <text lang="en">Grinds grains into flour for baking and cooking.</text>
+            <text lang="de">Mahlen von Getreide zu Mehl für das Backen und Kochen.</text>
+        </description>
+        <inCity>false</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>1</maxCount>
+        <genders>
+            <maleChance>70</maleChance>
+            <femaleChance>30</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Hunter</name>
+            <name lang="de">Jäger</name>
+        </role>
+        <description>
+            <text lang="en">Hunts wild animals to provide meat and hides for the villagers.</text>
+            <text lang="de">Jagt Wildtiere, um Fleisch und Felle für die Dorfbewohner bereitzustellen.</text>
+        </description>
+        <inCity>false</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>unlimited</maxCount>
+        <genders>
+            <maleChance>80</maleChance>
+            <femaleChance>20</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Priest</name>
+            <name lang="de">Priester</name>
+        </role>
+        <description>
+            <text lang="en">Provides spiritual guidance and conducts religious ceremonies in the village.</text>
+            <text lang="de">Bietet spirituelle Führung und führt religiöse Zeremonien im Dorf durch.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>2</maxCount>
+        <genders>
+            <maleChance>50</maleChance>
+            <femaleChance>50</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Peasant</name>
+            <name lang="de">Bauer</name>
+        </role>
+        <description>
+            <text lang="en">Works on the farm fields and assists in tending to the crops and livestock.</text>
+            <text lang="de">Arbeitet auf den Feldern und hilft bei der Pflege der Pflanzen und des Viehs.</text>
+        </description>
+        <inCity>false</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>unlimited</maxCount>
+        <genders>
+            <maleChance>50</maleChance>
+            <femaleChance>50</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Boatbuilder</name>
+            <name lang="de">Bootsbauer</name>
+        </role>
+        <description>
+            <text lang="en">Constructs boats for fishing and transport.</text>
+            <text lang="de">Baut Boote für den Fischfang und Transport.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>2</maxCount>
+        <genders>
+            <maleChance>90</maleChance>
+            <femaleChance>10</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Gravedigger</name>
+            <name lang="de">Totengräber</name>
+        </role>
+        <description>
+            <text lang="en">Prepares graves and maintains the cemetery.</text>
+            <text lang="de">Bereitet Gräber vor und pflegt den Friedhof.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>1</maxCount>
+        <genders>
+            <maleChance>70</maleChance>
+            <femaleChance>30</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Executioner</name>
+            <name lang="de">Henker</name>
+        </role>
+        <description>
+            <text lang="en">Carries out executions and maintains order for severe crimes.</text>
+            <text lang="de">Vollstreckt Hinrichtungen und sorgt für Ordnung bei schweren Verbrechen.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>false</inVillage>
+        <maxCount>1</maxCount>
+        <genders>
+            <maleChance>90</maleChance>
+            <femaleChance>10</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Beggar</name>
+            <name lang="de">Bettler</name>
+        </role>
+        <description>
+            <text lang="en">Lives on the streets and relies on charity for survival.</text>
+            <text lang="de">Lebt auf der Straße und ist auf Wohltätigkeit angewiesen, um zu überleben.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>false</inVillage>
+        <maxCount>unlimited</maxCount>
+        <genders>
+            <maleChance>50</maleChance>
+            <femaleChance>50</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Carpenter</name>
+            <name lang="de">Zimmermann</name>
+        </role>
+        <description>
+            <text lang="en">Builds and repairs structures, including homes and village facilities.</text>
+            <text lang="de">Baut und repariert Gebäude, einschließlich Häuser und Dorfanlagen.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>3</maxCount>
+        <genders>
+            <maleChance>60</maleChance>
+            <femaleChance>40</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Baker</name>
+            <name lang="de">Bäcker</name>
+        </role>
+        <description>
+            <text lang="en">Bakes bread, pastries, and other goods for the villagers using locally grown grains.</text>
+            <text lang="de">Backt Brot, Gebäck und andere Waren für die Dorfbewohner aus lokal angebautem Getreide.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>2</maxCount>
+        <genders>
+            <maleChance>40</maleChance>
+            <femaleChance>60</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Tanner</name>
+            <name lang="de">Gerber</name>
+        </role>
+        <description>
+            <text lang="en">Processes animal hides into leather for clothing and goods.</text>
+            <text lang="de">Verarbeitet Tierhäute zu Leder für Kleidung und Waren.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>2</maxCount>
+        <genders>
+            <maleChance>70</maleChance>
+            <femaleChance>30</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Woodcutter</name>
+            <name lang="de">Holzfäller</name>
+        </role>
+        <description>
+            <text lang="en">Cuts wood for building and heating, supplying the village with timber.</text>
+            <text lang="de">Schneidet Holz zum Bauen und Heizen und versorgt das Dorf mit Holz.</text>
+        </description>
+        <inCity>false</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>unlimited</maxCount>
+        <genders>
+            <maleChance>80</maleChance>
+            <femaleChance>20</femaleChance>
+        </genders>
+    </character>
+    <character>
+        <role>
+            <name lang="en">Herbalist</name>
+            <name lang="de">Kräuterkundiger</name>
+        </role>
+        <description>
+            <text lang="en">Gathers and prepares herbs for medicinal and magical purposes.</text>
+            <text lang="de">Sammelt und bereitet Kräuter für medizinische und magische Zwecke vor.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>3</maxCount>
+        <genders>
+            <maleChance>40</maleChance>
+            <femaleChance>60</femaleChance>
+        </genders>
+    </character>
+     <character>
+        <role>
+            <name lang="en">Housewife</name>
+            <name lang="de">Hausfrau</name>
+        </role>
+        <description>
+            <text lang="en">Takes care of the house and the children.</text>
+            <text lang="de">Besorgt das Haus und erzieht die Kinder.</text>
+        </description>
+        <inCity>true</inCity>
+        <inVillage>true</inVillage>
+        <maxCount>3</maxCount>
+        <genders>
+            <maleChance>00</maleChance>
+            <femaleChance>100</femaleChance>
+        </genders>
+    </character>   
+</characters>

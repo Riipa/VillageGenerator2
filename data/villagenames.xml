@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<villageNames>
+    <village>
+        <name lang="en">Oakwood</name>
+        <name lang="de">Eichenwald</name>
+    </village>
+    <village>
+        <name lang="en">Riverdale</name>
+        <name lang="de">Flusstal</name>
+    </village>
+    <village>
+        <name lang="en">Stonehaven</name>
+        <name lang="de">Steinheim</name>
+    </village>
+    <village>
+        <name lang="en">Briar Glen</name>
+        <name lang="de">Dornenhain</name>
+    </village>
+    <village>
+        <name lang="en">Silverbrook</name>
+        <name lang="de">Silberbach</name>
+    </village>
+    <village>
+        <name lang="en">Mossy Hollow</name>
+        <name lang="de">Moosgrund</name>
+    </village>
+    <village>
+        <name lang="en">Frostmoor</name>
+        <name lang="de">Frostmoor</name>
+    </village>
+    <village>
+        <name lang="en">Thornridge</name>
+        <name lang="de">Dornklippe</name>
+    </village>
+    <village>
+        <name lang="en">Willowmere</name>
+        <name lang="de">Weidenmeer</name>
+    </village>
+    <village>
+        <name lang="en">Greendale</name>
+        <name lang="de">Grüntal</name>
+    </village>
+    <village>
+        <name lang="en">Ironhill</name>
+        <name lang="de">Eisenhügel</name>
+    </village>
+    <village>
+        <name lang="en">Sunspire</name>
+        <name lang="de">Sonnenspitze</name>
+    </village>
+    <village>
+        <name lang="en">Raven's Nest</name>
+        <name lang="de">Rabenhorst</name>
+    </village>
+    <village>
+        <name lang="en">Windhelm</name>
+        <name lang="de">Windheim</name>
+    </village>
+    <village>
+        <name lang="en">Deepwater</name>
+        <name lang="de">Tiefwasser</name>
+    </village>
+    <village>
+        <name lang="en">Shadowfen</name>
+        <name lang="de">Schattenmoor</name>
+    </village>
+    <village>
+        <name lang="en">Brightwood</name>
+        <name lang="de">Lichtwald</name>
+    </village>
+    <village>
+        <name lang="en">Duskfield</name>
+        <name lang="de">Abendfeld</name>
+    </village>
+    <village>
+        <name lang="en">Brighthollow</name>
+        <name lang="de">Lichthain</name>
+    </village>
+    <village>
+        <name lang="en">Whispering Pines</name>
+        <name lang="de">Flüsterkiefern</name>
+    </village>
+    <village>
+        <name lang="en">Kingsreach</name>
+        <name lang="de">Königsweite</name>
+    </village>
+    <village>
+        <name lang="en">Cragmoor</name>
+        <name lang="de">Felsmoor</name>
+    </village>
+    <village>
+        <name lang="en">Wolf's Den</name>
+        <name lang="de">Wolfshain</name>
+    </village>
+    <village>
+        <name lang="en">Pinewatch</name>
+        <name lang="de">Kieferwacht</name>
+    </village>
+    <village>
+        <name lang="en">Silverthorn</name>
+        <name lang="de">Silberdorn</name>
+    </village>
+    <village>
+        <name lang="en">Amberglade</name>
+        <name lang="de">Bernhain</name>
+    </village>
+    <village>
+        <name lang="en">Fallowfield</name>
+        <name lang="de">Brachfeld</name>
+    </village>
+    <village>
+        <name lang="en">Birchgrove</name>
+        <name lang="de">Birkenhain</name>
+    </village>
+    <village>
+        <name lang="en">Northpass</name>
+        <name lang="de">Nordpass</name>
+    </village>
+    <village>
+        <name lang="en">Coppercrest</name>
+        <name lang="de">Kupferkamm</name>
+    </village>
+    <village>
+        <name lang="en">Mistvale</name>
+        <name lang="de">Nebeltal</name>
+    </village>
+    <village>
+        <name lang="en">Stormreach</name>
+        <name lang="de">Sturmwacht</name>
+    </village>
+    <village>
+        <name lang="en">Dragon's Rest</name>
+        <name lang="de">Drachenruh</name>
+    </village>
+    <village>
+        <name lang="en">Autumnfall</name>
+        <name lang="de">Herbstfall</name>
+    </village>
+    <village>
+        <name lang="en">Hawk's Nest</name>
+        <name lang="de">Habichthorst</name>
+    </village>
+    <village>
+        <name lang="en">Gloomhaven</name>
+        <name lang="de">Düsterheim</name>
+    </village>
+    <village>
+        <name lang="en">Maplewood</name>
+        <name lang="de">Ahornwald</name>
+    </village>
+    <village>
+        <name lang="en">Redridge</name>
+        <name lang="de">Rotklippe</name>
+    </village>
+    <village>
+        <name lang="en">Hilltop</name>
+        <name lang="de">Hügelspitze</name>
+    </village>
+    <village>
+        <name lang="en">Fairfield</name>
+        <name lang="de">Schönfeld</name>
+    </village>
+    <village>
+        <name lang="en">Goldenleaf</name>
+        <name lang="de">Goldblatt</name>
+    </village>
+    <village>
+        <name lang="en">Dustbloom</name>
+        <name lang="de">Staubblüte</name>
+    </village>
+    <village>
+        <name lang="en">Windwhisper</name>
+        <name lang="de">Windhauch</name>
+    </village>
+    <village>
+        <name lang="en">Highcliff</name>
+        <name lang="de">Hochklippe</name>
+    </village>
+    <village>
+        <name lang="en">Eagle's Perch</name>
+        <name lang="de">Adlershorst</name>
+    </village>
+    <village>
+        <name lang="en">Springvale</name>
+        <name lang="de">Frühlingstal</name>
+    </village>
+    <village>
+        <name lang="en">Moonshadow</name>
+        <name lang="de">Mondschatten</name>
+    </village>
+    <village>
+        <name lang="en">Foxden</name>
+        <name lang="de">Fuchshain</name>
+    </village>
+    <village>
+        <name lang="en">Brightvale</name>
+        <name lang="de">Lichttal</name>
+    </village>
+    <village>
+        <name lang="en">Winterhold</name>
+        <name lang="de">Winterfeste</name>
+    </village>
+    <village>
+        <name lang="en">Ashford</name>
+        <name lang="de">Eschenfurt</name>
+    </village>
+    <village>
+        <name lang="en">Greystone</name>
+        <name lang="de">Graustein</name>
+    </village>
+    <village>
+        <name lang="en">Northwatch</name>
+        <name lang="de">Nordwacht</name>
+    </village>
+    <village>
+        <name lang="en">Southgate</name>
+        <name lang="de">Südtor</name>
+    </village>
+    <village>
+        <name lang="en">Havenport</name>
+        <name lang="de">Hafenort</name>
+    </village>
+    <village>
+        <name lang="en">Greenhearth</name>
+        <name lang="de">Grünherz</name>
+    </village>
+    <village>
+        <name lang="en">Rockdale</name>
+        <name lang="de">Felsenburg</name>
+    </village>
+    <village>
+        <name lang="en">Everwinter</name>
+        <name lang="de">Immerwinter</name>
+    </village>
+    <village>
+        <name lang="en">Brightfen</name>
+        <name lang="de">Lichtmoor</name>
+    </village>
+    <village>
+        <name lang="en">Ravenmoor</name>
+        <name lang="de">Rabenmoor</name>
+    </village>
+    <village>
+        <name lang="en">Goldenspire</name>
+        <name lang="de">Goldspitze</name>
+    </village>
+    <village>
+        <name lang="en">Dragonhold</name>
+        <name lang="de">Drachenfeste</name>
+    </village>
+    <village>
+        <name lang="en">Stonehill</name>
+        <name lang="de">Steinhügel</name>
+    </village>
+    <village>
+        <name lang="en">Windhaven</name>
+        <name lang="de">Windhafen</name>
+    </village>
+    <village>
+        <name lang="en">Foxgrove</name>
+        <name lang="de">Fuchshain</name>
+    </village>
+    <village>
+        <name lang="en">Lion's Reach</name>
+        <name lang="de">Löwenweite</name>
+    </village>
+    <village>
+        <name lang="en">Goldrun</name>
+        <name lang="de">Goldbach</name>
+    </village>
+    <village>
+        <name lang="en">Crystalford</name>
+        <name lang="de">Kristallfurt</name>
+    </village>
+    <village>
+        <name lang="en">Treetop</name>
+        <name lang="de">Wipfelort</name>
+    </village>
+    <village>
+        <name lang="en">Whispering Woods</name>
+        <name lang="de">Flüsterwald</name>
+    </village>
+    <village>
+        <name lang="en">Mooncrest</name>
+        <name lang="de">Mondkamm</name>
+    </village>
+    <village>
+        <name lang="en">Silverkeep</name>
+        <name lang="de">Silberfeste</name>
+    </village>
+    <village>
+        <name lang="en">Dawnfall</name>
+        <name lang="de">Morgenfall</name>
+    </village>
+    <village>
+        <name lang="en">Wolfpine</name>
+        <name lang="de">Wolfskiefer</name>
+    </village>
+    <village>
+        <name lang="en">Starfall</name>
+        <name lang="de">Sternfall</name>
+    </village>
+    <village>
+        <name lang="en">Frostpine</name>
+        <name lang="de">Frostkiefer</name>
+    </village>
+    <village>
+        <name lang="en">Oakshade</name>
+        <name lang="de">Eichenschatten</name>
+    </village>
+    <village>
+        <name lang="en">Whiterun</name>
+        <name lang="de">Weißlauf</name>
+    </village>
+    <village>
+        <name lang="en">Highreach</name>
+        <name lang="de">Hochweite</name>
+    </village>
+    <village>
+        <name lang="en">Blossom Hill</name>
+        <name lang="de">Blütenhügel</name>
+    </village>
+    <village>
+        <name lang="en">Hawk's Hollow</name>
+        <name lang="de">Habichtshain</name>
+    </village>
+    <village>
+        <name lang="en">Stormrock</name>
+        <name lang="de">Sturmfelsen</name>
+    </village>
+    <village>
+        <name lang="en">Snowrest</name>
+        <name lang="de">Schneeruhe</name>
+    </village>
+    <village>
+        <name lang="en">Briar's End</name>
+        <name lang="de">Dornende</name>
+    </village>
+    <village>
+        <name lang="en">Eldergrove</name>
+        <name lang="de">Althain</name>
+    </village>
+    <village>
+        <name lang="en">Whistling Ridge</name>
+        <name lang="de">Pfeifenkamm</name>
+    </village>
+    <village>
+        <name lang="en">Brookshire</name>
+        <name lang="de">Bachfurt</name>
+    </village>
+    <village>
+        <name lang="en">Frostvale</name>
+        <name lang="de">Frosttal</name>
+    </village>
+    <village>
+        <name lang="en">Valewatch</name>
+        <name lang="de">Tiefenwacht</name>
+    </village>
+    <village>
+        <name lang="en">Cloudrest</name>
+        <name lang="de">Wolkenruh</name>
+    </village>
+    <village>
+        <name lang="en">Windwater</name>
+        <name lang="de">Windwasser</name>
+    </village>
+    <village>
+        <name lang="en">Riverbend</name>
+        <name lang="de">Flusskrümmung</name>
+    </village>
+    <village>
+        <name lang="en">Greenridge</name>
+        <name lang="de">Grünhöhe</name>
+    </village>
+    <village>
+        <name lang="en">Daggerfall</name>
+        <name lang="de">Dolchfall</name>
+    </village>
+    <village>
+        <name lang="en">Hearthhome</name>
+        <name lang="de">Herdheim</name>
+    </village>
+    <village>
+        <name lang="en">Wolfsbane</name>
+        <name lang="de">Wolfsbann</name>
+    </village>
+    <village>
+        <name lang="en">Shadewood</name>
+        <name lang="de">Schattenwald</name>
+    </village>
+    <village>
+        <name lang="en">Driftwood</name>
+        <name lang="de">Treibholz</name>
+    </village>
+    <village>
+        <name lang="en">Fayford</name>
+        <name lang="de">Feenfurt</name>
+    </village>
+    <village>
+        <name lang="en">Ashenvale</name>
+        <name lang="de">Eschenhain</name>
+    </village>
+    <village>
+        <name lang="en">Brimstone</name>
+        <name lang="de">Schwefelstein</name>
+    </village>
+    <village>
+        <name lang="en">Lightspire</name>
+        <name lang="de">Lichtspitze</name>
+    </village>
+    <village>
+        <name lang="en">Flamecrest</name>
+        <name lang="de">Flammenkamm</name>
+    </village>
+    <village>
+        <name lang="en">Wolfden</name>
+        <name lang="de">Wolfshöhle</name>
+    </village>
+    <village>
+        <name lang="en">Shadowbrook</name>
+        <name lang="de">Schattenbach</name>
+    </village>
+    <village>
+        <name lang="en">Stormwatch</name>
+        <name lang="de">Sturmwacht</name>
+    </village>
+    <village>
+        <name lang="en">Ironwood</name>
+        <name lang="de">Eisenwald</name>
+    </village>
+    <village>
+        <name lang="en">Goldhaven</name>
+        <name lang="de">Goldhafen</name>
+    </village>
+    <village>
+        <name lang="en">Skullfort</name>
+        <name lang="de">Schädelburg</name>
+    </village>
+    <village>
+        <name lang="en">Cinderfall</name>
+        <name lang="de">Aschenfall</name>
+    </village>
+    <village>
+        <name lang="en">Moonhaven</name>
+        <name lang="de">Mondhafen</name>
+    </village>
+    <village>
+        <name lang="en">Sablewood</name>
+        <name lang="de">Schwarzwald</name>
+    </village>
+    <village>
+        <name lang="en">Brightfort</name>
+        <name lang="de">Lichtfeste</name>
+    </village>
+    <village>
+        <name lang="en">Lionshead</name>
+        <name lang="de">Löwenkopf</name>
+    </village>
+    <village>
+        <name lang="en">Frosthold</name>
+        <name lang="de">Frostfest</name>
+    </village>
+    <village>
+        <name lang="en">Alderpeak</name>
+        <name lang="de">Erlenhöhe</name>
+    </village>
+    <village>
+        <name lang="en">Cresthaven</name>
+        <name lang="de">Kammhafen</name>
+    </village>
+    <village>
+        <name lang="en">Stormshield</name>
+        <name lang="de">Sturmschild</name>
+    </village>
+    <village>
+        <name lang="en">Darkwater</name>
+        <name lang="de">Dunkelwasser</name>
+    </village>
+    <village>
+        <name lang="en">Greenbriar</name>
+        <name lang="de">Gründorn</name>
+    </village>
+    <village>
+        <name lang="en">Frostcrag</name>
+        <name lang="de">Frostklippe</name>
+    </village>
+    <village>
+        <name lang="en">Suncrest</name>
+        <name lang="de">Sonnenkamm</name>
+    </village>
+    <village>
+        <name lang="en">Silverfall</name>
+        <name lang="de">Silberfall</name>
+    </village>
+    <village>
+        <name lang="en">Shadowvale</name>
+        <name lang="de">Schattenhain</name>
+    </village>
+    <village>
+        <name lang="en">Whiteridge</name>
+        <name lang="de">Weißklippe</name>
+    </village>
+    <village>
+        <name lang="en">Dawnspire</name>
+        <name lang="de">Morgenspitze</name>
+    </village>
+    <village>
+        <name lang="en">Stonewood</name>
+        <name lang="de">Steinwald</name>
+    </village>
+    <village>
+        <name lang="en">Flintbrook</name>
+        <name lang="de">Feuersteinbach</name>
+    </village>
+    <village>
+        <name lang="en">Willowdale</name>
+        <name lang="de">Weidental</name>
+    </village>
+    <village>
+        <name lang="en">Ravenfield</name>
+        <name lang="de">Rabenfeld</name>
+    </village>
+    <village>
+        <name lang="en">Brightreach</name>
+        <name lang="de">Lichtweite</name>
+    </village>
+    <village>
+        <name lang="en">Wolfwater</name>
+        <name lang="de">Wolfwasser</name>
+    </village>
+    <village>
+        <name lang="en">Greenholm</name>
+        <name lang="de">Grünholm</name>
+    </village>
+    <village>
+        <name lang="en">Faygrove</name>
+        <name lang="de">Feenhain</name>
+    </village>
+    <village>
+        <name lang="en">Goldbriar</name>
+        <name lang="de">Goldhain</name>
+    </village>
+    <village>
+        <name lang="en">Stormhold</name>
+        <name lang="de">Sturmfest</name>
+    </village>
+    <village>
+        <name lang="en">Crystalvale</name>
+        <name lang="de">Kristalltal</name>
+    </village>
+    <village>
+        <name lang="en">Whitetree</name>
+        <name lang="de">Weißbaum</name>
+    </village>
+    <village>
+        <name lang="en">Ebonshade</name>
+        <name lang="de">Ebenenschatten</name>
+    </village>
+    <village>
+        <name lang="en">Silverwolf</name>
+        <name lang="de">Silberwolf</name>
+    </village>
+    <village>
+        <name lang="en">Mistwood</name>
+        <name lang="de">Nebelwald</name>
+    </village>
+    <village>
+        <name lang="en">Thornhill</name>
+        <name lang="de">Dornhügel</name>
+    </village>
+    <village>
+        <name lang="en">Hawk's Reach</name>
+        <name lang="de">Habichtsweite</name>
+    </village>
+    <village>
+        <name lang="en">Stormwood</name>
+        <name lang="de">Sturmwald</name>
+    </village>
+    <village>
+        <name lang="en">Flintrock</name>
+        <name lang="de">Feuersteinfelsen</name>
+    </village>
+    <village>
+        <name lang="en">Snowpine</name>
+        <name lang="de">Schneekiefer</name>
+    </village>
+    <village>
+        <name lang="en">Brightshade</name>
+        <name lang="de">Lichtsatt</name>
+    </village>
+    <village>
+        <name lang="en">Dragonpine</name>
+        <name lang="de">Drachenkiefer</name>
+    </village>
+    <village>
+        <name lang="en">Frosthold</name>
+        <name lang="de">Frostburg</name>
+    </village>
+</villageNames>

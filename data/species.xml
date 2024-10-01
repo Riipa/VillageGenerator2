@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speciesList>
+    <species>
+        <name lang="en">Humans</name>
+        <name lang="de">Menschen</name>
+    </species>
+    <species>
+        <name lang="en">Elves</name>
+        <name lang="de">Elfen</name>
+    </species>
+    <species>
+        <name lang="en">Dwarves</name>
+        <name lang="de">Zwerge</name>
+    </species>
+    <species>
+        <name lang="en">Orcs</name>
+        <name lang="de">Orks</name>
+    </species>
+    <species>
+        <name lang="en">Halflings</name>
+        <name lang="de">Halblinge</name>
+    </species>
+</speciesList>

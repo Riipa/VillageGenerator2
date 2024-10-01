@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<industryList>
+    <industry>
+        <name lang="en">Agriculture</name>
+        <name lang="de">Landwirtschaft</name>
+    </industry>
+    <industry>
+        <name lang="en">Mining</name>
+        <name lang="de">Bergbau</name>
+    </industry>
+    <industry>
+        <name lang="en">Fishing</name>
+        <name lang="de">Fischerei</name>
+    </industry>
+    <industry>
+        <name lang="en">Craftsmanship</name>
+        <name lang="de">Handwerk</name>
+    </industry>
+    <industry>
+        <name lang="en">Trade</name>
+        <name lang="de">Handel</name>
+    </industry>
+    <!-- Weitere Industrien können hier hinzugefügt werden -->
+</industryList>

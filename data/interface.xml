@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+    <text id="title">
+        <value lang="en">Village Generator</value>
+        <value lang="de">Dorf-Generator</value>
+    </text>
+    <text id="languageLabel">
+        <value lang="en">Language:</value>
+        <value lang="de">Sprache:</value>
+    </text>
+    <text id="speciesLabel">
+        <value lang="en">Majority Species:</value>
+        <value lang="de">Hauptspezies:</value>
+    </text>
+    <text id="industryLabel">
+        <value lang="en">Main Industry:</value>
+        <value lang="de">Hauptindustrie:</value>
+    </text>
+    <text id="generateButton">
+        <value lang="en">Generate Village</value>
+        <value lang="de">Dorf generieren</value>
+    </text>
+    <text id="placeholderOption">
+        <value lang="en">Please select or Randomize</value>
+        <value lang="de">Bitte wählen oder zufällige Auswahl</value>
+    </text>
+    <text id="randomOption">
+        <value lang="en">Randomize</value>
+        <value lang="de">Zufällige Auswahl</value>
+    </text>
+</interface>
